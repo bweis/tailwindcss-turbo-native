@@ -1,0 +1,22 @@
+{
+  "name": "tailwindcss-turbo-native",
+  "description": "A plugin for Tailwind CSS v3.0+ that provides utilities for handling turbo-native applications.",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "author": "Ben Weis <bweis96@gmail.com> (http://bweis.dev/)",
+  "license": "MIT",
+  "repository": "https://github.com/bweis/tailwindcss-turbo-native",
+  "bugs": "https://github.com/bweis/tailwindcss-turbo-native/issues",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/bweis/tailwindcss-turbo-native#readme",
+  "prettier": {
+    "printWidth": 100,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "tabWidth": 2
+  }
+}
