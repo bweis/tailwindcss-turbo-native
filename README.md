@@ -10,6 +10,12 @@ Install the plugin from npm:
 npm install tailwindcss-turbo-native
 ```
 
+Or if using import maps in Rails 7+:
+
+```sh
+bin/importmap pin tailwindcss-turbo-native
+```
+
 ### Tailwind
 
 Then add the plugin to your `tailwind.config.js` file:
